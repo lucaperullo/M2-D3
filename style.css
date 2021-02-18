@@ -1,0 +1,19 @@
+#container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.button {
+  margin-top: 30px !important;
+}
+li {
+  text-decoration: none;
+}
+ul {
+  width: 400px;
+}
+span {
+  background-color: rgba(0, 0, 0, 0.712);
+  color: white;
+  border-radius: 4px;
+}
